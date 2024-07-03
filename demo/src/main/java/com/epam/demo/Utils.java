@@ -1,6 +1,6 @@
 package com.epam.demo;
 
-import com.epam.Utils.StringUtils;
+import com.epam.utils.StringUtils;
 
 import java.util.List;
 
